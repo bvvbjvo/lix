@@ -10,8 +10,7 @@
     - title: sb
       url: 5play.org
       description: 看你妈
-    - title: 二维码演示
-      qrcode: images/qrcodes/cli.png
+    - title: 想要短信测压吗？
       logo: 
       url: https://cli.im/url
       description: 二维码演示，手机扫一扫，也可以点击
@@ -44,7 +43,7 @@
       description: 全球最大的学习分享平台，别看了你无法访问！
     - title: Google
       url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
+      description: 全球最大的UI学习分享平台，他也是。
     
 
 - taxonomy: 社区咨询
