@@ -5,10 +5,10 @@
   links: 
     - title: 我操
       logo: 
-      url: t.me/jplkh
+      url: https://t.me/jplkh
       description: 卧槽马
     - title: sb
-      url: music.hxll.wostore.cn
+      url: 5play.org
       description: 看你妈
     - title: 二维码演示
       qrcode: images/qrcodes/cli.png
@@ -41,7 +41,7 @@
       description: 发现新鲜有趣的产品
     - title: Youtube
       url: https://www.youtube.com/
-      description: 全球最大的学习分享平台
+      description: 全球最大的学习分享平台，别看了你无法访问！
     - title: Google
       url: https://www.google.com/
       description: 全球最大的UI学习分享平台
